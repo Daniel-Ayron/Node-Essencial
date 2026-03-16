@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "npx tsx --watch"
+    },
+    "code-runner.runInTerminal": true
+}
